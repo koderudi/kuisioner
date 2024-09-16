@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Seberapa sering Anda merasa dipahami oleh pasangan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda merasa emosi Anda tidak stabil dalam hubungan?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda merasa marah atau frustrasi dengan pasangan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Apakah Anda merasa cemburu atau posesif terhadap pasangan?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda merasa senang dan puas dengan hubungan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda dan pasangan terlibat dalam pertengkaran?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda merasa didukung secara emosional oleh pasangan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda merasa cemas atau tidak nyaman dalam hubungan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering Anda merasa bahagia bersama pasangan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  },
+  {
+    "question": "Seberapa sering pasangan Anda mendukung keputusan atau pilihan Anda?",
+    "options": [
+      { "label": "Sangat sering", "value": "5" },
+      { "label": "Sering", "value": "4" },
+      { "label": "Kadang-kadang", "value": "3" },
+      { "label": "Jarang", "value": "2" },
+      { "label": "Tidak pernah", "value": "1" }
+    ]
+  }
+]
