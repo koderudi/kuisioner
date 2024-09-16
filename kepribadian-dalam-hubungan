@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "title": "Kuisioner Kepribadian dalam Hubungan (pacaran/nikah)",
+    "description": "Kuisioner ini bertujuan untuk mengetahui kepribadian dan pandangan seseorang terhadap hubungan mereka.",
+    "author": "Rudi"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "Apakah Anda pernah selingkuh dalam hubungan?",
+      "options": [
+        { "text": "Ya", "value": 1 },
+        { "text": "Tidak", "value": 5 },
+        { "text": "Pernah, tapi hanya sekali", "value": 3 },
+        { "text": "Pernah, lebih dari sekali", "value": 1 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Seberapa penting menurut Anda kesetiaan dalam sebuah hubungan?",
+      "options": [
+        { "text": "Sangat penting", "value": 5 },
+        { "text": "Penting", "value": 4 },
+        { "text": "Tidak terlalu penting", "value": 2 },
+        { "text": "Tidak penting sama sekali", "value": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Bagaimana Anda mengekspresikan cinta kepada pasangan Anda?",
+      "options": [
+        { "text": "Melalui kata-kata", "value": 4 },
+        { "text": "Melalui tindakan (membantu, memberi hadiah, dsb.)", "value": 5 },
+        { "text": "Melalui waktu yang dihabiskan bersama", "value": 5 },
+        { "text": "Melalui sentuhan fisik", "value": 4 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Seberapa sering Anda berkomunikasi secara terbuka dengan pasangan Anda tentang perasaan atau masalah pribadi?",
+      "options": [
+        { "text": "Sangat sering", "value": 5 },
+        { "text": "Cukup sering", "value": 4 },
+        { "text": "Kadang-kadang", "value": 3 },
+        { "text": "Jarang", "value": 2 },
+        { "text": "Tidak pernah", "value": 1 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Apakah Anda pernah merasa hubungan Anda berada dalam situasi yang tidak sehat (misalnya, toxic relationship)?",
+      "options": [
+        { "text": "Ya, sering", "value": 1 },
+        { "text": "Ya, kadang-kadang", "value": 2 },
+        { "text": "Tidak pernah", "value": 5 }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Bagaimana Anda biasanya menyelesaikan konflik dengan pasangan?",
+      "options": [
+        { "text": "Berbicara langsung dan mencari solusi bersama", "value": 5 },
+        { "text": "Menghindari konflik dan berharap akan berlalu", "value": 2 },
+        { "text": "Marah-marah dan tidak berbicara dengan pasangan", "value": 1 },
+        { "text": "Minta bantuan pihak ketiga (teman, konselor, dsb.)", "value": 3 }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Bagaimana Anda mendefinisikan komitmen dalam hubungan?",
+      "options": [
+        { "text": "Mengutamakan pasangan di atas segalanya", "value": 5 },
+        { "text": "Menghormati batasan dan ekspektasi dalam hubungan", "value": 4 },
+        { "text": "Tetap bersama pasangan walaupun menghadapi tantangan besar", "value": 4 },
+        { "text": "Mengikuti arus, tanpa terlalu terikat", "value": 2 }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Apakah Anda dan pasangan sering menghabiskan waktu berkualitas bersama?",
+      "options": [
+        { "text": "Sangat sering", "value": 5 },
+        { "text": "Cukup sering", "value": 4 },
+        { "text": "Kadang-kadang", "value": 3 },
+        { "text": "Jarang", "value": 2 },
+        { "text": "Tidak pernah", "value": 1 }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Apakah Anda pernah mempertimbangkan untuk mengakhiri hubungan karena merasa tidak puas secara emosional?",
+      "options": [
+        { "text": "Ya", "value": 1 },
+        { "text": "Tidak", "value": 5 },
+        { "text": "Kadang-kadang, tapi masih bertahan", "value": 3 }
+      ]
+    }
+  ]
+}
